@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Czujnik_temp1", "Czujnik_temp_id_5\Czujnik_temp1.csproj", "{847893D8-549E-4CEB-8287-E9DC35EB3764}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementy rozwiązania", "Elementy rozwiązania", "{91F2B435-1603-4F76-A567-034E7857DBB5}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+	ProjectSection(SolutionItems) = preProject
+		Czujnik_temp_id_5.vsd = Czujnik_temp_id_5.vsd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{847893D8-549E-4CEB-8287-E9DC35EB3764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847893D8-549E-4CEB-8287-E9DC35EB3764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847893D8-549E-4CEB-8287-E9DC35EB3764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847893D8-549E-4CEB-8287-E9DC35EB3764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
